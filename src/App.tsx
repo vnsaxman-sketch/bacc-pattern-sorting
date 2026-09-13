@@ -76,6 +76,7 @@ function App() {
               analysis.
             </p>
 	    <p className="subtitle">
+	    <br />
               Developed by: Long Nguyen
             </p>
           </div>
